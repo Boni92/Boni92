@@ -1,8 +1,8 @@
-### Hola!, soy Nico - aka [Boni92] 👋
+## Hola! soy Nico - aka [Boni92] 👋
 
 ## Soy desarrollador web! 
 
-- 🌱 Actualmente profundizando en JavaScript 🤣
+- 🌱 Actualmente profundizando en JavaScript 
 - 👯 Me encantaría colaborar con otros creadores
 - 🥅 Meta 2021: Ser Frontend Developer 
 - ⚡ Datos de color: Amo cocinar y nadar
