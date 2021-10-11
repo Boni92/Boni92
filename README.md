@@ -7,7 +7,7 @@
 - 🥅 Meta 2021: Ser Frontend Developer 
 - ⚡ Datos de color: Amo cocinar y nadar
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" width="300px"/>
 
 ### Contactame:
 
