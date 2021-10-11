@@ -7,6 +7,8 @@
 - 🥅 Meta 2021: Ser Frontend Developer 
 - ⚡ Datos de color: Amo cocinar y nadar
 
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" />
+
 ### Contactame:
 
 <code>[<img alt="Boni92 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</code>
