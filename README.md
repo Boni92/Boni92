@@ -1,6 +1,6 @@
 ## Hola! soy Nico - aka [Boni92] 👋
 
-## Soy desarrollador web! 
+### Soy desarrollador web! 
 
 - 🌱 Actualmente profundizando en JavaScript 
 - 👯 Me encantaría colaborar con otros creadores
