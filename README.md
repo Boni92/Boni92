@@ -1,6 +1,6 @@
 ## Hola! soy Nico - aka [Boni92] 👋
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif" width="450px"/>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="425px"/>
 
 ### Soy desarrollador web! 
 
@@ -13,8 +13,8 @@
 
 ### Contactame:
 
-<code>[<img alt="Boni92 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</code>
-<code>[<img alt="Boni92 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]</code>
+<code>[<img alt="Boni92 | LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]</code>
+<code>[<img alt="Boni92 | Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />][instagram]</code>
 
 ### Herramientas y Lenguajes:
 
