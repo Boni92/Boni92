@@ -14,9 +14,7 @@
 ### Contactame:
 
 <code>[<img alt="Boni92 | LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]</code>
-
 <code>[<img alt="Boni92 | Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]</code>
-
 <code>
 <a href="mailto:nicolas.borsari@gmail.com">
   <img alt="Nico's Email" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
