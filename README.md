@@ -28,7 +28,7 @@
 </a>
 </code>
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+[go](http://stackoverflow.com) ({:target="_blank"})
 
 
 ### Herramientas y Lenguajes:
