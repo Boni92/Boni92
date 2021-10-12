@@ -12,9 +12,16 @@
 
 
 ### Contactame:
-
-<code>[<img alt="Boni92 | LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]</code>
-<code>[<img alt="Boni92 | Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]</code>
+<code>
+<a href="https://linkedin.com/in/nicolasborsari-desarrollador" target="_blank">
+  <img alt="Nico's Linkedin" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+</a>
+</code>
+<code>
+<a href="https://instagram.com/nicoborsari" target="_blank">
+  <img alt="Nico's instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
+</a>
+</code>
 <code>
 <a href="mailto:nicolas.borsari@gmail.com">
   <img alt="Nico's Email" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
@@ -34,7 +41,9 @@
 <code><img alt="GitHub" width="23px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code>
 
 </details>
-
-
+<!--
+<code>[<img alt="Boni92 | Instagram" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />][instagram]</code>
 [instagram]: https://instagram.com/nicoborsari
+<code>[<img alt="Boni92 | LinkedIn" width="22px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />][linkedin]</code>
 [linkedin]: https://linkedin.com/in/nicolasborsari-desarrollador
+-->
