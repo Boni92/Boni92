@@ -28,6 +28,8 @@
 </a>
 </code>
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 
 ### Herramientas y Lenguajes:
 
