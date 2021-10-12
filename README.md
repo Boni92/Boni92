@@ -9,6 +9,7 @@
 - 🥅 Meta 2021: Ser Frontend Developer 
 - ⚡ Datos de color: Amo cocinar y nadar
 
+/play rumble
 
 
 ### Contactame:
