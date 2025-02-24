@@ -2,11 +2,10 @@
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="425px"/>
 
-### Soy desarrollador web! 
+### Soy Desarrollador web! 
 
 - 🌱 Actualmente profundizando en React Js 
 - 👯 Me encantaría colaborar con otros creadores
-- 🥅 Meta 2022: Ser Frontend Developer profesional 
 - ⚡ Datos de color: Amo cocinar y nadar
 
 
